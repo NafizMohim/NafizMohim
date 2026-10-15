@@ -13,7 +13,6 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=NafizMohim&style=for-the-badge&color=8B5CF6" alt="Profile views" />
   <img src="https://img.shields.io/badge/Focus-Continuous%20Learning-06B6D4?style=for-the-badge" alt="Continuous learning" />
-  <img src="https://img.shields.io/badge/Theme-Neon%20Blue%20%26%20Purple-8B5CF6?style=for-the-badge" alt="Neon theme" />
 </p>
 
 ---
